@@ -1,9 +1,18 @@
 # ML Algorithms from scratch
 
-Find hpc solutions
+1. Find hpc solutions
 
 ### To-do
-PCA
-GD
-SGD
+- [ ] PCA
+- [x] GD
+  - [ ] Numba
+  - [ ] Cython
+  - [ ] ??
+- [x] SGD
+- [x] Linear Regression (Simple)
+- [ ] Linear Regression (Multiple)
 
+
+### Questions
+
+Why sklearn SGD is faster than mine?
